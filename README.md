@@ -1,4 +1,15 @@
-### Hi there 👋
+### 你好，My Friend 👋 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JslinSir&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
+- [Via UI 一个小程序原生UI组件库](https://jslinsir.github.io/via-ui-doc/)
+- 🔭 I’m currently working on Rainbow
+- 🌱 I’m currently learning ...
+- 👯 JavaScript developer
+- 🤔 Focusing: React、 React Native 、Vue、wechart Mini Program
+- 📫 How to reach me: JsLinSir@gmail.com
+- 😄 Pronouns: less code less bug
+- ⚡ Fun fact: coding and LOL
 
 <!--
 **JslinSir/JslinSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
