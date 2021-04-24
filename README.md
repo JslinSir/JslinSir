@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on Rainbow
 - 🌱 I’m currently learning ...
 - 👯 JavaScript developer
-- 🤔 Focusing: React、 React Native 、Vue、wechart Mini Program
+- 🤔 Focusing: React, RN, Vue, 小程序
 - 📫 How to reach me: JsLinSir@gmail.com
-- 😄 Pronouns: less code less bug
+- 😄 Pronouns: Less code Less bug
 - ⚡ Fun fact: coding and LOL
 
 <!--
