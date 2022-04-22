@@ -1,5 +1,5 @@
 ### 你好，My Friend 👋 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JslinSir&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JslinSir&show_icons=true&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&hide_title=true" />
 
 
 - [Via UI 一个小程序原生UI组件库](https://jslinsir.github.io/via-ui-doc/)
