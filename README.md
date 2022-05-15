@@ -2,6 +2,7 @@
 
 <h3>你好，My Friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是 JsLin</h3>
  
+ 
 - [Via UI 一个小程序原生UI组件库](https://jslinsir.github.io/via-ui-doc/)
 - [前端问道小程序](https://github.com/JslinSir/fe-question)
 - 🔭 I’m currently working on Rainbow
@@ -11,22 +12,10 @@
 - 📫 How to reach me: JsLinSir@gmail.com
 - 😄 Pronouns: Less code Less bug
 - ⚡ Fun fact: coding and LOL
+- 🎧 Like music [Gentle Heart 💿 ](https://music.163.com/outchain/player?type=2&id=1438590437&auto=0&height=66)
  
 
-<!--
-**JslinSir/JslinSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
