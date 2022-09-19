@@ -2,29 +2,32 @@
 
 <h3>你好，My Friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="手势"> 我是 JsLin</h3>
  
- 
+### 👨🏻‍💻 &nbsp;About Me
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
+
 - [Via UI 一个小程序原生UI组件库](https://jslinsir.github.io/via-ui-doc/)
 - [前端问道小程序](https://github.com/JslinSir/fe-question)
-- 🔭 I’m currently working on Rainbow
-- 🌱 I’m currently learning ...
-- 👯 JavaScript developer
-- 🤔 Focusing: React, RN, Vue, 小程序
-- 📫 How to reach me: JsLinSir@gmail.com
-- 😄 Pronouns: Less code Less bug
-- ⚡ Fun fact: coding and LOL
-- 🎧 Like music [Gentle Heart 💿 ](https://music.163.com/outchain/player?type=2&id=1438590437&auto=0&height=66)
- 
+- 🔭 &nbsp; I’m currently working on Rainbow  
+- 🌱 &nbsp; I’m currently learning ...  
+- 👯 &nbsp; JavaScript developer  
+- 🤔 &nbsp; Focusing: React, RN, Vue, 小程序  
+- 📫 &nbsp; How to reach me: JsLinSir@gmail.com  
+- 😄 &nbsp;Pronouns: Less code Less bug  
+- ⚡ &nbsp;Fun fact: coding and LOL  
+- 🎧 &nbsp; Like music [Gentle Heart 💿 ](https://music.163.com/outchain/player?type=2&id=1438590437&auto=0&height=66)
 
 
-**Languages:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code> 
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![RN](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue.js)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=TypeScript&logoColor=3178C6)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=0175C2)&nbsp; 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### 数据统计
 <div center>
